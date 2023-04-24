@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there! My name is Armando Isaac Garcia
+
+## Also known as Armax7 on GitHub
 
 <!--
 **Armax7/Armax7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
