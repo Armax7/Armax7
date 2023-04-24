@@ -8,7 +8,7 @@ I'm a **Full Stack Developer** with a special liking on **back-end**.
 
 I discovered programming during my degree on Mechatronic Engineering and I fell in love with it first sight. My first programming language was the C family, starting with C and then learned C++ and C#. Afterwards, I decided to take courses on web development with JavaScript to learn more about this world and wasn't disappointed. I love videogames and a good story.
 
-## What do I do?
+## What I do?
 
 I'm currently making project to increase my knowledge and skill related to programming. What I love most about it is that it offers a flexible tool to solve almost any problem, that's Christmas for a problem solver like myself 😁
 
